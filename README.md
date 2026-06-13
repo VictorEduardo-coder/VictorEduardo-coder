@@ -10,9 +10,10 @@ Sou estudante de Engenharia da Computação em uma Universidade Federal, com um 
 * ⚙️ Foco técnico em desenvolvimento backend, arquitetura de software e Internet das Coisas (IoT).
 * 🧩 Fora do código acadêmico, gosto de exercitar o raciocínio lógico e o pensamento sistêmico desenvolvendo regras complexas, economia e balanceamento mecânico para projetos autorais de worldbuilding e TTRPGs.
 
-## 🔭 O que estou construindo
+## ✅ Sistemas Concluídos
 
-* **Sistema Web de Telemetria Veicular:** Desenvolvendo ativamente uma aplicação para rastreamento via GPS. O projeto envolve a captura de dados em tempo real através de dispositivos IoT e um backend robusto estruturado em **Java**, com armazenamento e consultas otimizadas em banco de dados **MySQL**.
+* **Gestão de Frotas e Telemetria Veicular:** Um sistema completo para rastreamento via GPS. O projeto foi construído com foco na captura de dados em tempo real através de dispositivos IoT. O backend robusto foi estruturado em **Java**, processando os registros de localização e armazenando as informações de forma otimizada e estruturada em um banco de dados **MySQL**.
+* **SystemRPG (Engine Lógica de TTRPG):** Uma API desenvolvida para automatizar e gerenciar as regras de um sistema de RPG de mesa autoral. O projeto envolveu a criação de mecânicas dinâmicas de jogo, como os algoritmos para o sistema de recuperação de corrupção do Yuusha (processando gatilhos como situações de carinho, evolução de nível e trabalhos concluídos). Além disso, o sistema conta com um motor econômico completo para validar transações complexas e fluxo financeiro utilizando o Tron.
 
 ## 🛠️ Minhas Ferramentas e Tecnologias
 
