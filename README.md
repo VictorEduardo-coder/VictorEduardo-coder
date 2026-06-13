@@ -9,7 +9,6 @@ Sou estudante de Engenharia da Computação em uma Universidade Federal, com um 
 * 🎓 Graduando em **Engenharia da Computação**, com base sólida em disciplinas analíticas rigorosas, como Cálculo, Álgebra Linear e Matemática Discreta.
 * ⚙️ Foco técnico em desenvolvimento backend, arquitetura de software e Internet das Coisas (IoT).
 * 🧩 Fora do código acadêmico, gosto de exercitar o raciocínio lógico e o pensamento sistêmico desenvolvendo regras complexas, economia e balanceamento mecânico para projetos autorais de worldbuilding e TTRPGs.
-* 🚀 Atualmente busco minha primeira oportunidade como **Desenvolvedor Júnior**, com grande interesse em contribuir para o setor de Fintechs e empresas de tecnologia inovadora.
 
 ## 🔭 O que estou construindo
 
