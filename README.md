@@ -26,7 +26,7 @@ Sou estudante de **Engenharia da Computação na Universidade Federal de Goiás 
 
 ### 📱 Guardião Mobile (Gerenciador de Backups e Mídia Android)
 Aplicativo Android nativo projetado para gerenciamento estruturado de armazenamento local, organização de mídia e preservação de dados.
-- **Destaques Técnicos:** Interface moderna e reativa construída com **Jetpack Compose**, gerenciamento e indexação de backups do WhatsApp, organização automatizada de bibliotecas de mídia e manipulação de fluxos de áudio no formato **OGG**.
+- **Destaques Técnicos:** Interface moderna e reativa construída com **Jetpack Compose**, organização automatizada de bibliotecas de mídia e manipulação de fluxos de áudio no formato **MP3**, VPN e monitoramento de uso da **RAM**, com um sistema de anti-vírus em construção.
 - **Stack:** `Kotlin` `Jetpack Compose` `Android SDK` `Gradle` `Manipulação de Mídia (OGG)`
 
 ### 🎓 Bot Organizador Acadêmico
