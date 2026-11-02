@@ -22,15 +22,6 @@ Sou estudante de **Engenharia da Computação na Universidade Federal de Goiás 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VictorEduardo-coder&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorEduardo-coder&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" />
-</div>
-
----
-
 ## 🚀 Projetos em Destaque
 
 *Meus projetos demonstram versatilidade na criação de soluções end-to-end, transitando entre aplicações mobile nativas, integrações de rede, rotinas desktop em Python e arquiteturas backend robustas.*
