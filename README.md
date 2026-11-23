@@ -2,86 +2,90 @@
 
 # Olá, eu sou o Victor Eduardo 👋
 
-### Desenvolvedor Backend, Sistemas & Mobile | Graduando em Engenharia da Computação (UFG)
+### Estudante de Engenharia da Computação (UFG) | Desenvolvimento Backend & Engenharia de Software
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoreduardo-coder/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoreduardo.alm@gmail.com)
+Em busca de **Estágio em Desenvolvimento de Software** (Backend / Full-Stack — Java, Spring Boot, SQL e Python).
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-Online-E63956?style=for-the-badge&logo=githubpages&logoColor=white)](https://victoreduardo-coder.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoreduardo-coder/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoreduardo.alm@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
-Sou estudante de **Engenharia da Computação na Universidade Federal de Goiás (UFG)**, com foco em **Desenvolvimento Backend**, **Arquitetura de Software**, **Aplicações Mobile Nativas** e **Integração de Sistemas (IoT & Automação)**. Transformo regras de negócio complexas e modelos matemáticos em código limpo, escalável e bem estruturado.
+Graduando em **Engenharia da Computação na Universidade Federal de Goiás (UFG)**, com foco em **Desenvolvimento Backend**, **Arquitetura em Camadas**, **Modelagem Relacional** e **Automação**.
 
-- 🎓 Base analítica sólida em **Estruturas de Dados, Algoritmos de Otimização, Cálculo, Álgebra Linear e Física Aplicada**.
-- ⚙️ Experiência prática no desenvolvimento de sistemas e APIs em **Java (Spring Boot, JDA)**, ferramentas desktop em **Python**, aplicações Android nativas em **Kotlin (Jetpack Compose)** e programação de baixo nível em **C (C11)**.
-- ☁️ Vivência com modelagem relacional e deploy em nuvem utilizando **MySQL, PostgreSQL, SQLite, Aiven e Railway**.
-- 🧩 Fora do ambiente acadêmico, projeto sistemas de probabilidade, motores econômicos e balanceamento mecânico para universos autorais de **TTRPG**.
-
----
-
-## 🚀 Projetos em Destaque
-
-*Meus projetos demonstram versatilidade na criação de soluções end-to-end, transitando entre aplicações mobile nativas, integrações de rede, rotinas desktop em Python e arquiteturas backend robustas.*
-
-### [📱 Guardião Mobile (Gerenciador de Backups e Segurança)](#)
-Aplicativo Android nativo projetado para gerenciamento estruturado de armazenamento local, organização inteligente de mídia e preservação de dados.
-- **Destaques Técnicos:** Interface moderna e reativa construída com **Jetpack Compose**, organização automatizada de bibliotecas, manipulação avançada de mídia (áudios OGG/MP3, vídeos e fotos), implementação de VPN local, monitoramento de **RAM** em tempo real e um motor antivírus em desenvolvimento.
-- **Stack:** ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white)
-
-### [🎓 Bot Organizador Acadêmico](#)
-Assistente inteligente integrado ao Discord voltado para automação e otimização da rotina de estudos universitários.
-- **Destaques Técnicos:** Interação em tempo real via **JDA (Java Discord API)**, motor de otimização baseado no algoritmo do *Problema da Mochila (Knapsack Problem)* para alocação ideal de blocos de estudo conforme peso e dificuldade das disciplinas, e *worker* assíncrono para leitura de e-mails via protocolo **IMAP**, atualizando prazos automaticamente.
-- **Stack:** ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Discord API](https://img.shields.io/badge/JDA_Discord-5865F2?style=flat-square&logo=discord&logoColor=white) ![IMAP/Redes](https://img.shields.io/badge/Protocolo_IMAP-4D4D4D?style=flat-square)
-
-### [🤖 BIA4vs (IA Básica para Versão Simplificada)](#)
-Aplicação desktop desenvolvida em **Python** projetada para interação ágil com inteligência artificial em uma arquitetura enxuta.
-- **Destaques Técnicos:** Processamento paralelo e leitura de múltiplos anexos de arquivos, gerenciamento eficiente de contexto de IA e persistência estruturada do histórico de conversas locais.
-- **Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Desktop UI](https://img.shields.io/badge/Desktop_UI-00599C?style=flat-square) ![Manipulação de Dados](https://img.shields.io/badge/I/O_Files-FF9900?style=flat-square)
-
-### [📡 Sistema de Gestão de Frotas e Telemetria Veicular](#)
-Plataforma completa para monitoramento logístico e rastreamento via GPS em tempo real integrada a hardware IoT.
-- **Destaques Técnicos:** Ingestão contínua de dados de telemetria e sensores via protocolo **MQTT/IoT**, processamento no backend em **Java** e armazenamento relacional otimizado em **MySQL** para consultas espaciais de rotas e eventos.
-- **Stack:** ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT_IoT-660066?style=flat-square)
-
-### [🎲 SystemRPG (Engine Lógica e Plataforma de TTRPG)](#)
-API e sistema web construídos para automatizar regras, rolagens de dados, fichas e a economia de um sistema de RPG autoral.
-- **Destaques Técnicos:** Algoritmos customizados para cálculo de status, motor econômico transacional para validação de fluxo financeiro estrito (*Tron* e *Gold*), integração com banco em nuvem (**Aiven**) e pipelines de deploy contínuo no **Railway**.
-- **Stack:** ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Aiven Cloud](https://img.shields.io/badge/Aiven_Cloud-FF3366?style=flat-square) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+- Base técnica voltada para **Java (Spring Boot, Spring Security, JDBC, JavaFX, JDA, JUnit)**, **SQL (MySQL, PostgreSQL, SQLite, H2)** e **Python**, além de **Git/GitHub**, **Docker** e **Linux**.
+- Experiência profissional prévia de **1 ano e 6 meses** como Jovem Aprendiz (Administrativo e TI, via CESAM) na Santa Casa de Misericórdia de Goiânia, atuando com suporte técnico cotidiano e organização de rotinas entre setores.
+- Portfólio interativo com telas, decisões de arquitetura e currículo atualizado em **[victoreduardo-coder.github.io/portfolio](https://victoreduardo-coder.github.io/portfolio/)**.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Projetos em Destaque
+
+### [🎲 SystemRPG — Plataforma Web de Fichas e Regras](https://github.com/VictorEduardo-coder/SystemRPG)
+Aplicação web e backend em **Java 21 + Spring Boot** para gerenciar fichas, inventário, motor econômico e rolagens ao vivo de um sistema autoral de RPG.
+- **Destaques:** Arquitetura em camadas, autenticação com **Spring Security + BCrypt**, atualização em tempo real via **WebSockets**, persistência relacional em **MySQL / TiDB Cloud**, containerização com **Docker** e configuração de deploy para **Render**.
+- **Stack:** ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<p align="center">
+  <img src="./assets/systemrpg-status.webp" alt="SystemRPG — Ficha e Status" width="48%" />
+  <img src="./assets/systemrpg-rolagens.webp" alt="SystemRPG — Painel de Rolagens" width="48%" />
+</p>
+
+### [🎓 Bot Acadêmico — Automação de Estudos no Discord](https://github.com/VictorEduardo-coder/bot-academico)
+Bot em **Java (JDA)** integrado ao Discord e a caixas de e-mail via **IMAP** para organizar disciplinas, prazos e cronogramas de estudo.
+- **Destaques:** Priorização heurística de blocos de estudo com `PriorityQueue`, leitura assíncrona de e-mails acadêmicos via **IMAP**, criptografia **AES-GCM** para credenciais, persistência em **H2** e API HTTP leve com **Javalin**.
+- **Stack:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JDA](https://img.shields.io/badge/JDA_Discord-5865F2?style=flat-square&logo=discord&logoColor=white) ![Javalin](https://img.shields.io/badge/Javalin-0082B9?style=flat-square) ![H2](https://img.shields.io/badge/H2_SQL-003B57?style=flat-square) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+<p align="center">
+  <img src="./assets/bot-academico.webp" alt="Bot Acadêmico — Diagrama de Arquitetura" width="76%" />
+</p>
+
+### [🤖 BIA4vs — Assistente Desktop de Pesquisa e Análise de Código](https://github.com/VictorEduardo-coder/BIA4vs)
+Aplicação desktop modular em **Python (PyQt5)** voltada para apoio técnico, envio de múltiplos arquivos de código e gerenciamento local de histórico.
+- **Destaques:** Interface escura em **PyQt5**, organização modular (`core`, `code_analysis`, `files`, `research`, `storage`), histórico persistido em **SQLite** e suporte a provedores externos ou **Ollama** local via variáveis de ambiente.
+- **Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+<p align="center">
+  <img src="./assets/4biavs.webp" alt="BIA4vs — Interface Desktop" width="76%" />
+</p>
+
+### [🌐 Portfólio Interativo](https://github.com/VictorEduardo-coder/portfolio)
+Vitrine técnica bilíngue (PT/EN) hospedada no **GitHub Pages**, reunindo projetos, decisões arquiteturais, laboratório interativo de algoritmos/APIs e testes automatizados em Node.js.
+- **Stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
+
+---
+
+## Tecnologias e Ferramentas
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | Java, Kotlin, Python, C (C11), SQL |
-| **Backend & Automação** | Spring Boot, JDA (Java Discord API), JDBC, Protocolos MQTT e IMAP |
-| **Mobile & Desktop** | Android SDK, Jetpack Compose, JavaFX, Gradle |
-| **Bancos de Dados & Cloud** | MySQL, PostgreSQL, SQLite, Aiven, Railway |
-| **Sistemas & Ferramentas** | Linux, Git, GitHub, VS Code |
-
-<br>
+| **Linguagens** | Java, Python, SQL, C (C11), JavaScript |
+| **Backend & Web** | Spring Boot, Spring Security, API REST, WebSockets, JDBC, JDA, Javalin, Thymeleaf |
+| **Bancos de Dados** | MySQL, PostgreSQL, SQLite, H2 |
+| **Ferramentas & Ambiente** | Git, GitHub, Linux, Maven, Docker, JUnit, PyQt5, JavaFX |
 
 <div align="center">
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Android" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="SQLite" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img alt="Java" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img alt="Spring" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+  <img alt="Python" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="C" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+  <img alt="MySQL" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img alt="PostgreSQL" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  <img alt="SQLite" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" />
+  <img alt="Docker" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <img alt="Git" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img alt="Linux" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 </div>
 
 ---
 
-## 📫 Contato
+## Contato
 
+- **Portfólio:** [victoreduardo-coder.github.io/portfolio](https://victoreduardo-coder.github.io/portfolio/)
 - **LinkedIn:** [linkedin.com/in/victoreduardo-coder](https://www.linkedin.com/in/victoreduardo-coder/)
 - **E-mail:** [victoreduardo.alm@gmail.com](mailto:victoreduardo.alm@gmail.com)
