@@ -54,6 +54,16 @@ Aplicação desktop modular em **Python (PyQt5)** voltada para apoio técnico, e
   <img src="./assets/4biavs.webp" alt="BIA4vs — Interface Desktop" width="76%" />
 </p>
 
+### [🚗 Gestão de Frotas (JHC Telemetria) — Plataforma Desktop JavaFX & PostgreSQL](https://github.com/VictorEduardo-coder/Gestao-de-Frotas)
+Aplicação desktop em **Java 17+ e JavaFX** com persistência em **PostgreSQL (JDBC)** para gerenciamento de veículos, vínculo de sensores de telemetria e controle de acesso por perfil (**RBAC**).
+- **Destaques:** Modelagem OOP com herança, interface `Autenticavel`, `record` imutável para coordenadas GPS (`Localizacao`), camada DAO (`repository/`) parametrizada por variáveis de ambiente e painéis distintos por nível de acesso.
+- **Stack:** ![Java](https://img.shields.io/badge/Java_17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+<p align="center">
+  <img src="./assets/gestao-frotas-arquitetura.webp" alt="Gestão de Frotas — Arquitetura" width="48%" />
+  <img src="./assets/gestao-frotas-diagnostico.webp" alt="Gestão de Frotas — Diagnóstico de Sensores" width="48%" />
+</p>
+
 ### [🌐 Portfólio Interativo](https://github.com/VictorEduardo-coder/portfolio)
 Vitrine técnica bilíngue (PT/EN) hospedada no **GitHub Pages**, reunindo projetos, decisões arquiteturais, laboratório interativo de algoritmos/APIs e testes automatizados em Node.js.
 - **Stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
